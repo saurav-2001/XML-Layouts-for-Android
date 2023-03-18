@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         try {
             // Get the bill amount from the user input and parse it into an integer
-            int amount = Integer.parseInt(billAmount.getText().toString());
+            Double amount = Double.parseDouble(billAmount.getText().toString());
 
             // Get the selected radio button ID
             int selectedOption = tipOption.getCheckedRadioButtonId();
