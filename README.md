@@ -1,3 +1,3 @@
 # Tip Calculator
  
-![TipCalculator](https://user-images.githubusercontent.com/116700223/226090194-90e6133f-4f19-4e67-98f9-8889e5199314.gif)
+![Calculator](https://user-images.githubusercontent.com/116700223/226190222-b3a4c2df-fc99-4e45-b168-96a77da74317.gif)
